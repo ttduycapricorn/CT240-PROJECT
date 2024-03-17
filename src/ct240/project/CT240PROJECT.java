@@ -13,10 +13,16 @@ public class CT240PROJECT {
     /**
      * @param args the command line arguments
      */
+    
+    public int add (int a, int b){
+        return a + b;
+    }
+    
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello word!");
         System.out.println("hello word!");
+<<<<<<< HEAD
         System.out.println("hello word!");
         System.out.println("hello word!");
         System.out.println("hello word!");
@@ -25,5 +31,7 @@ public class CT240PROJECT {
         System.out.println("hello word!");
         
         System.out.println("ct240.project.CT240PROJECT.main() HA");
+=======
+>>>>>>> 75f36723396ca61ceb0303800f9935c0314c8a11
     }   
 }
