@@ -18,6 +18,10 @@ public class CT240PROJECT {
         System.out.println("hello word!");
         System.out.println("hello word!");
         System.out.println("hello word!");
-    }
-    
+        System.out.println("hello word!");
+        System.out.println("hello word!");
+        System.out.println("hello word!");
+        System.out.println("hello word!");
+        System.out.println("hello word!");
+    }   
 }
