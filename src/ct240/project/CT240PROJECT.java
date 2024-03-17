@@ -10,9 +10,6 @@ package ct240.project;
  */
 public class CT240PROJECT {
 
-    /**
-     * @param args the command line arguments
-     */
 
     public int add(int a, int b) {
         return a + b;
