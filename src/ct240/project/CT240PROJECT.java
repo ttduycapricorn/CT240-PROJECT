@@ -19,7 +19,9 @@ public class CT240PROJECT {
         System.out.println("hello word!");
         System.out.println("hello word!");
 
+
         System.out.println("hello Toan new");
         System.out.println("hello Toan");
+        System.out.println("hello Anh");
     }
 }
