@@ -23,5 +23,7 @@ public class CT240PROJECT {
         System.out.println("hello word!");
         System.out.println("hello word!");
         System.out.println("hello word!");
+        
+        System.out.println("ct240.project.CT240PROJECT.main() HA");
     }   
 }
