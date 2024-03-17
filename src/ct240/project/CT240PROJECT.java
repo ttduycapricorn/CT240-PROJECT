@@ -22,6 +22,9 @@ public class CT240PROJECT {
         // TODO code application logic here
         System.out.println("hello word!");
         System.out.println("hello word!");
+        
+        
+        System.out.println("hello Toan new");
         System.out.println("hello Toan");
     }   
 }
