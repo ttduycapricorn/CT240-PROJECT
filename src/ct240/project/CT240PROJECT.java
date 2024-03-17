@@ -10,7 +10,6 @@ package ct240.project;
  */
 public class CT240PROJECT {
 
-
     public int add(int a, int b) {
         return a + b;
     }
